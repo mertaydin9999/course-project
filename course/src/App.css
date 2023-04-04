@@ -21,7 +21,7 @@
   color: red;
 }
 .card-delete-btn {
-  width: 100px;
+  width: 200px;
   padding: 10px;
   border-radius: 30px;
   border: none;
@@ -30,4 +30,14 @@
 }
 .refresh-div {
   text-align: center;
+}
+.prev-next-btn {
+  border: none;
+  background-color: white;
+  font-size: 20px;
+  color: red;
+}
+.course-title-button {
+  text-align: center;
+  margin-bottom: 20px;
 }
